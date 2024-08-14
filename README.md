@@ -16,3 +16,25 @@ This Typing Speed Test application allows users to measure and improve their typ
 - **WPM Calculation:** Automatically calculates the user's WPM once the sentence is typed correctly.
 - **Responsive Design:** Optimized for desktop and mobile users.
 - **Random Sentence Selection:** Sentences are randomly selected from predefined sets, keeping the test fresh.
+- 
+## How to Use
+
+1. **Select Difficulty:** Click the "Easy" or "Hard" button to choose the difficulty level. If no button is selected, the Easy level will be set by default.
+2. **Start Typing:** Begin typing the sentence shown on the screen.
+3. **Check Your Speed:** The application will display your Words Per Minute (WPM) once you type the entire sentence correctly.
+4. **Reset or Continue:** Use the "Reset" button to try the same sentence again, or click "Next" for a new sentence.
+
+## Installation
+
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/typing-speed-test.git
+
+2. Navigate into the project directory:
+    cd typing-speed-test
+3. Open index.html in your preferred web browser:
+    open index.html
+Technology Stack
+HTML5: Structuring the content of the application.
+CSS3: For styling the application and making it responsive.
+JavaScript: To handle dynamic updates, real-time feedback, and logic for calculating WPM.
